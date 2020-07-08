@@ -1,4 +1,4 @@
-print("Average calculator (Version 1.0)\nDeveloped by Sebastián Ramírez")
+print("Average calculator (Version 1.1.0)\nDeveloped by Sebastián Ramírez")
 prompt = (input("Type *file* for opening a file with grades to calculate the your average, *fast* to enter the grades manually or *quit* for exit the program: "))
 
 #File calculation code
